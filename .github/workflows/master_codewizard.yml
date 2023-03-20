@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CodeWizard'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_054A554DE691431A9DDE75ACEA48DD99 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F31B4F34ACC04720A58F66B8F97EC51F }}
